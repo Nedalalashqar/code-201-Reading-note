@@ -33,9 +33,15 @@ stopped many web page authors using them already.
 > For me, steps to design a website requires 7 steps:
 
 +**Goal identification**: Where I work with the client to determine what goals the new website needs to fulfill. I.e., what its purpose is
-+**Scope definition**: Once we know the site's goals, we can define the scope of the project. I.e., what web pages and features the site requires to fulfill the goal, and the timeline for building those out
-+**Sitemap and wireframe creation**: With the scope well-defined, we can start digging into the sitemap, defining how the content and features we defined in scope definition will interrelate
-+**Content creation**: Now that we have a bigger picture of the site in mind, we can start creating content for the individual pages, always keeping search engine optimization (SEO) in mind to help keep pages focused on a single topic
-+**Visual elements**: With the site architecture and some content in place, we can start working on the visual brand. Depending on the client, this may already be well-defined, but you might also be defining the visual style from the ground up. Tools like style tiles, moodboards, and element collages can help with this process
-+**Testing**: By now, you've got all your pages and defined how they display to the site visitor, so it's time to make sure it all works. Combine manual browsing of the site on a variety of devices with automated site crawlers to identify everything from user experience issues to simple broken links
-+**Launch**: Once everything's working beautifully, it's time to plan and execute your site launch! This should include planning both launch timing and communication strategies — i.e., when will you launch and how will you let the world know? After that, it's time to break out the bubbly
+
+* **Scope definition**: Once we know the site's goals, we can define the scope of the project. I.e., what web pages and features the site requires to fulfill the goal, and the timeline for building those out
+
+* **Sitemap and wireframe creation**: With the scope well-defined, we can start digging into the sitemap, defining how the content and features we defined in scope definition will interrelate
+
+* **Content creation**: Now that we have a bigger picture of the site in mind, we can start creating content for the individual pages, always keeping search engine optimization (SEO) in mind to help keep pages focused on a single topic
+
+* **Visual elements**: With the site architecture and some content in place, we can start working on the visual brand. Depending on the client, this may already be well-defined, but you might also be defining the visual style from the ground up. Tools like style tiles, moodboards, and element collages can help with this process
+
+* **Testing**: By now, you've got all your pages and defined how they display to the site visitor, so it's time to make sure it all works. Combine manual browsing of the site on a variety of devices with automated site crawlers to identify everything from user experience issues to simple broken links
+
+* **Launch**: Once everything's working beautifully, it's time to plan and execute your site launch! This should include planning both launch timing and communication strategies — i.e., when will you launch and how will you let the world know? After that, it's time to break out the bubbly
