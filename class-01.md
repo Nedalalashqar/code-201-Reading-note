@@ -32,7 +32,7 @@ stopped many web page authors using them already.
 >Web designers often think about the web design process with a focus on technical matters such as wireframes, code, and content management. But great design isn’t about how you integrate the social media buttons or even slick visuals. Great design is actually about having a website creation process that aligns with an overarching strategy.
 > For me, steps to design a website requires 7 steps:
 
-+**Goal identification**: Where I work with the client to determine what goals the new website needs to fulfill. I.e., what its purpose is
+* **Goal identification**: Where I work with the client to determine what goals the new website needs to fulfill. I.e., what its purpose is
 
 * **Scope definition**: Once we know the site's goals, we can define the scope of the project. I.e., what web pages and features the site requires to fulfill the goal, and the timeline for building those out
 
